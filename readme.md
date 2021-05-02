@@ -15,7 +15,7 @@ CRUD project made with Laravel. It consists a software which users can post sugg
 
 <ul>
   <li>PHP 7.4</li>
-  <li>Laravel 7.2</li>
+  <li>Laravel 6.2</li>
   <li>DB: MySQL</li>
   <li>HTML5 and CSS3</li>
   <li>Xampp</li>
