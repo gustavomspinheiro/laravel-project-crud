@@ -1,6 +1,6 @@
 # Vehicles Suggestions
 
-CRUD project made with Laravel. It consists a software which users can post suggestions about differente vehicles
+CRUD project made with Laravel. It simulates a software which users can post suggestions about differente vehicles
 
 
 ## Features
